@@ -1,0 +1,21 @@
+O
+áSc@s8dZd
+Zd	Zd
+Zedkr4endS(uRefactoring program...uintoutheuauofuatuinuforuoncCsn|j}d}xUtD]M}||ddjkr|jd|jdd|d}qqW|S(u© Takes a string and returns a title-case string.
+    All words EXCEPT for small words are made title case
+    unless the string starts with a preposition, in which
+    case the word is correctly capitalized.
+
+    >>> book_title('DIVE Into python')
+    'Dive into Python'
+
+    >>> book_title('the great gatsby')
+    'The Great Gatsby'
+
+    >>> book_title('the WORKS OF AleXANDer dumas')
+    'The Works of Alexander Dumas'
+    iiNu (utitleusmall_wordsulowerureplace(u	str_titleu	new_titleu
+index_worduword((u,/users/jvalverd/python1homework/refactory.pyu
+book_titles/cCs%ddl}ddl}|j|S(Ni(udoctestu	refactoryutestmod(udoctestu	refactory((u,/users/jvalverd/python1homework/refactory.pyu_testsu__main__N(uintoutheuauofuatuinuforuon(u__doc__usmall_wordsu
+book_titleu_testu__name__(((u,/users/jvalverd/python1homework/refactory.pyu<module>s
+		
